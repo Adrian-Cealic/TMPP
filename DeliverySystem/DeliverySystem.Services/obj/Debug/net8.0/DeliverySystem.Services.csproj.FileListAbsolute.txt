@@ -1,0 +1,17 @@
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\bin\Debug\net8.0\DeliverySystem.Services.deps.json
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\bin\Debug\net8.0\DeliverySystem.Services.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\bin\Debug\net8.0\DeliverySystem.Services.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\bin\Debug\net8.0\DeliverySystem.Domain.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\bin\Debug\net8.0\DeliverySystem.Interfaces.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\bin\Debug\net8.0\DeliverySystem.Domain.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\bin\Debug\net8.0\DeliverySystem.Interfaces.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\DeliverySystem.Services.csproj.AssemblyReference.cache
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\DeliverySystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\DeliverySystem.Services.AssemblyInfoInputs.cache
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\DeliverySystem.Services.AssemblyInfo.cs
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\DeliverySystem.Services.csproj.CoreCompileInputs.cache
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\Delivery.3A46F40D.Up2Date
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\DeliverySystem.Services.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\refint\DeliverySystem.Services.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\DeliverySystem.Services.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Services\obj\Debug\net8.0\ref\DeliverySystem.Services.dll

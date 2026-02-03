@@ -1,0 +1,11 @@
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\bin\Debug\net8.0\DeliverySystem.Domain.deps.json
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\bin\Debug\net8.0\DeliverySystem.Domain.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\bin\Debug\net8.0\DeliverySystem.Domain.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\DeliverySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\DeliverySystem.Domain.AssemblyInfoInputs.cache
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\DeliverySystem.Domain.AssemblyInfo.cs
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\DeliverySystem.Domain.csproj.CoreCompileInputs.cache
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\DeliverySystem.Domain.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\refint\DeliverySystem.Domain.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\DeliverySystem.Domain.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\ref\DeliverySystem.Domain.dll

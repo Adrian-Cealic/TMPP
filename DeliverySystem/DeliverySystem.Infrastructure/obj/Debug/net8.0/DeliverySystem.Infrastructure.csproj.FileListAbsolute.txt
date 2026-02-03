@@ -1,0 +1,17 @@
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\bin\Debug\net8.0\DeliverySystem.Infrastructure.deps.json
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\bin\Debug\net8.0\DeliverySystem.Infrastructure.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\bin\Debug\net8.0\DeliverySystem.Infrastructure.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\bin\Debug\net8.0\DeliverySystem.Domain.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\bin\Debug\net8.0\DeliverySystem.Interfaces.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\bin\Debug\net8.0\DeliverySystem.Domain.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\bin\Debug\net8.0\DeliverySystem.Interfaces.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\DeliverySystem.Infrastructure.csproj.AssemblyReference.cache
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\DeliverySystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\DeliverySystem.Infrastructure.AssemblyInfoInputs.cache
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\DeliverySystem.Infrastructure.AssemblyInfo.cs
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\DeliverySystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\Delivery.B02DEBBB.Up2Date
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\DeliverySystem.Infrastructure.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\refint\DeliverySystem.Infrastructure.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\DeliverySystem.Infrastructure.pdb
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\ref\DeliverySystem.Infrastructure.dll

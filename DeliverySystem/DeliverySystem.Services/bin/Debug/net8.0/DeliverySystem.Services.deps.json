@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeliverySystem.Services/1.0.0": {
+        "dependencies": {
+          "DeliverySystem.Domain": "1.0.0",
+          "DeliverySystem.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "DeliverySystem.Services.dll": {}
+        }
+      },
+      "DeliverySystem.Domain/1.0.0": {
+        "runtime": {
+          "DeliverySystem.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DeliverySystem.Interfaces/1.0.0": {
+        "dependencies": {
+          "DeliverySystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DeliverySystem.Interfaces.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliverySystem.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliverySystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliverySystem.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

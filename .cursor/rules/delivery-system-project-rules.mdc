@@ -1,0 +1,126 @@
+---
+name: delivery-system-project-rules
+description: Rules and constraints for implementing the Delivery Management System using OOP, SOLID principles, and design patterns.
+---
+
+# Overview
+
+This rule defines the mandatory architectural, design, and coding constraints for the **Delivery Management System** project.  
+The rule must be applied whenever the AI agent generates, modifies, or refactors code related to this project.
+
+The primary goal is to ensure **clean architecture**, **SOLID compliance**, and **progressive extensibility** across all development stages.
+
+---
+
+# Project Scope
+
+The Delivery Management System represents a simplified logistics platform responsible for:
+- Order creation and management
+- Courier assignment and delivery execution
+- Customer notifications
+- Progressive integration of design patterns
+
+The project is developed incrementally across multiple laboratory stages.
+
+---
+
+# Core Design Principles
+
+The AI agent **must enforce** the following principles at all times:
+
+## Object-Oriented Programming (OOP)
+
+- Use **encapsulation** to protect internal state.
+- Apply **inheritance** only when a true “is-a” relationship exists.
+- Leverage **polymorphism** instead of conditional logic (`if` / `switch`) for behavior variation.
+- Prefer composition over inheritance when possible.
+
+---
+
+## SOLID Principles
+
+### Single Responsibility Principle (SRP)
+- Each class must have exactly **one reason to change**.
+- Business logic, infrastructure, and orchestration concerns must be separated.
+
+### Open/Closed Principle (OCP)
+- Existing classes must be **open for extension** and **closed for modification**.
+- New behavior should be added via inheritance, interfaces, or composition.
+
+### Liskov Substitution Principle (LSP)
+- Subclasses must be fully substitutable for their base types.
+- No overridden method may weaken preconditions or strengthen postconditions.
+
+### Interface Segregation Principle (ISP)
+- Interfaces must be **small, cohesive, and role-specific**.
+- Classes must never be forced to implement unused methods.
+
+### Dependency Inversion Principle (DIP)
+- High-level modules must depend only on **abstractions**.
+- Dependencies must be injected via constructors or factories.
+- Direct instantiation of concrete implementations inside business logic is forbidden.
+
+---
+
+# Architectural Rules
+
+- The system must follow a **layered architecture**, such as:
+  - `Domain` – core entities and business rules
+  - `Interfaces` – abstractions and contracts
+  - `Services` – application logic and orchestration
+  - `Infrastructure` – concrete implementations and technical details
+
+- Domain entities must not depend on infrastructure or UI concerns.
+- Cyclic dependencies between layers are strictly prohibited.
+
+---
+
+# Design Pattern Usage
+
+- Design patterns must be introduced **only when required** by a laboratory stage.
+- Each pattern must be:
+  - Clearly isolated
+  - Easy to identify
+  - Aligned with SOLID principles
+- Pattern implementations must be explainable in terms of:
+  - Problem solved
+  - Benefits gained
+  - SOLID principles reinforced
+
+---
+
+# Coding Rules
+
+- All code must be:
+  - Readable
+  - Self-documenting
+  - Consistently named
+- Methods must be short and focused.
+- Magic values are forbidden; use constants or enums.
+- Exception handling must be explicit and meaningful.
+
+---
+
+# Forbidden Practices
+
+The AI agent **must not**:
+- Use static dependencies for business logic
+- Mix business logic with infrastructure concerns
+- Introduce God classes
+- Violate SOLID principles for convenience
+- Implement patterns prematurely
+
+---
+
+# Evolution Strategy
+
+- Each laboratory builds on the previous one.
+- Refactoring is allowed and encouraged **only if behavior is preserved**.
+- Existing public contracts must not be broken without justification.
+
+---
+
+# Final Note
+
+This rule acts as a **contract** between the AI agent and the project architecture.  
+Any generated solution that violates these constraints must be considered **invalid** and revised.

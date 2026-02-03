@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DeliverySystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DeliverySystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliverySystem.Domain.dll": {}
+        }
+      },
+      "DeliverySystem.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DeliverySystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DeliverySystem.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliverySystem.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliverySystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DeliverySystem.Domain/DeliverySystem.Domain.csproj",
+      "msbuildProject": "../DeliverySystem.Domain/DeliverySystem.Domain.csproj"
+    },
+    "DeliverySystem.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../DeliverySystem.Interfaces/DeliverySystem.Interfaces.csproj",
+      "msbuildProject": "../DeliverySystem.Interfaces/DeliverySystem.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DeliverySystem.Domain >= 1.0.0",
+      "DeliverySystem.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Adrian\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\utm\\TMPP\\DeliverySystem\\DeliverySystem.Infrastructure\\DeliverySystem.Infrastructure.csproj",
+      "projectName": "DeliverySystem.Infrastructure",
+      "projectPath": "D:\\utm\\TMPP\\DeliverySystem\\DeliverySystem.Infrastructure\\DeliverySystem.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+      "outputPath": "D:\\utm\\TMPP\\DeliverySystem\\DeliverySystem.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\utm\\TMPP\\DeliverySystem\\DeliverySystem.Domain\\DeliverySystem.Domain.csproj": {
+              "projectPath": "D:\\utm\\TMPP\\DeliverySystem\\DeliverySystem.Domain\\DeliverySystem.Domain.csproj"
+            },
+            "D:\\utm\\TMPP\\DeliverySystem\\DeliverySystem.Interfaces\\DeliverySystem.Interfaces.csproj": {
+              "projectPath": "D:\\utm\\TMPP\\DeliverySystem\\DeliverySystem.Interfaces\\DeliverySystem.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
