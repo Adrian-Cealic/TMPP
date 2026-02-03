@@ -22,3 +22,4 @@ D:\utm\TMPP\DeliverySystem\DeliverySystem.Console\obj\Debug\net8.0\refint\Delive
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Console\obj\Debug\net8.0\DeliverySystem.Console.pdb
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Console\obj\Debug\net8.0\DeliverySystem.Console.genruntimeconfig.cache
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Console\obj\Debug\net8.0\ref\DeliverySystem.Console.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Console\obj\Debug\net8.0\DeliverySystem.Console.sourcelink.json

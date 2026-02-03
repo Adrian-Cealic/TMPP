@@ -13,3 +13,4 @@ D:\utm\TMPP\DeliverySystem\DeliverySystem.Interfaces\obj\Debug\net8.0\DeliverySy
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Interfaces\obj\Debug\net8.0\refint\DeliverySystem.Interfaces.dll
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Interfaces\obj\Debug\net8.0\DeliverySystem.Interfaces.pdb
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Interfaces\obj\Debug\net8.0\ref\DeliverySystem.Interfaces.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Interfaces\obj\Debug\net8.0\DeliverySystem.Interfaces.sourcelink.json

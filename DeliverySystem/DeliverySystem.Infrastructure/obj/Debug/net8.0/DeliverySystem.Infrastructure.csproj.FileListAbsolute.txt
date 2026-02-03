@@ -15,3 +15,4 @@ D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\Delive
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\refint\DeliverySystem.Infrastructure.dll
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\DeliverySystem.Infrastructure.pdb
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\ref\DeliverySystem.Infrastructure.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Infrastructure\obj\Debug\net8.0\DeliverySystem.Infrastructure.sourcelink.json

@@ -9,3 +9,4 @@ D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\DeliverySystem
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\refint\DeliverySystem.Domain.dll
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\DeliverySystem.Domain.pdb
 D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\ref\DeliverySystem.Domain.dll
+D:\utm\TMPP\DeliverySystem\DeliverySystem.Domain\obj\Debug\net8.0\DeliverySystem.Domain.sourcelink.json
